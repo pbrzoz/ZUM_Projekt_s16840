@@ -8,11 +8,12 @@ Pliki z danymi i zapisanymi modelami należy umieścić w dowolnym folderze a na
 
 Lista plików:
 
-**my_distilbert_model** - wytrenowany model językowy distil-BERT
-
-**best_modelx.hdf5** - pliki z zapisanym najlepszym modelem podczas treningu sieci neuronowych
-
 **Tweets_Eurovision2023.csv** - plik csv z danymi pobranymi z Twittera. Dane pochodzą z tagu #Eurovision2023, pobrane 14 Maja 2023
 
 **hf_predictions.csv** - plik csv z uzupełnionymi predykcjami sentymentu
 
+Pliki których nie mogłem wysłać a są wspomniane w notatniku:
+
+**best_modelx.hdf5** - pliki z zapisanym najlepszym modelem podczas treningu sieci neuronowych
+
+**my_distilbert_model** - wytrenowany model językowy distil-BERT
